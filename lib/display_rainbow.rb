@@ -2,6 +2,4 @@
 
 def display_rainbow(color_array)
   #here Iwill have to puts, using inst
-  color_array = ["red","orange","yellow","green","blue","indigo","violet"]
   puts "R: #{color_array[0], O: orange, Y: yellow, G: green, B: blue, I: indigo, V: violet"
-end 
